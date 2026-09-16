@@ -9,9 +9,19 @@
   <a href="https://alfin-dio-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/alfindiotriyuliarsha/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://www.instagram.com/alfindiotriyuliarsha/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://www.tiktok.com/@alfin_dio_">
+    <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+
   <a href="mailto:alfindiot@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
